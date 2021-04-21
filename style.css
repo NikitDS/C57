@@ -5,7 +5,6 @@
 
 body {
     text-align: center;
-    background: linear-gradient(#cc00ff 0%, #0066ff 100%);
     background-repeat: no-repeat;
 
 }
@@ -18,6 +17,7 @@ h1 {
 #bio {
     padding: 20px;
     font-size: 18;
+     background: linear-gradient(#cc00ff 0%, #0066ff 100%);
     text-align: centre;
 }
 .menu{
@@ -45,4 +45,19 @@ h1 {
 }
 h1{
     font-size: 60px;
+}
+html{
+    scroll-behavior: smooth;
+}
+#hobby{
+    background-color: coral;
+}
+#work{
+    background-color: crimson;
+}
+#a{
+font-size: 30px;
+}
+#a2{
+    font-size: 30px;
 }
